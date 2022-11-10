@@ -5,31 +5,5 @@
     "seller_fee_basis_points": 10,
     "image": "https://nftstorage.link/ipfs/QmQuVAsoRiavA71Cnz7wmZouAZVpzXXofRR2PWosu3Rxog/2728.png",
     "external_url": "https://shiniki.io",
-    "edition": 3453,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Clay Grey"
-      },
-      {
-        "trait_type": "Fur",
-        "value": "desert_storm"
-      },
-      {
-        "trait_type": "Clothes",
-        "value": "hoodie w flames "
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "grin "
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Doubtful 3"
-      },
-      {
-        "trait_type": "Headgear",
-        "value": "Dad Cap "
-      }
-    ]
+    "edition": 3453
   }
