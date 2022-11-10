@@ -1,9 +1,13 @@
 {
-    "name": "Shiniki #3453",
+    "name": "Shiniki #1",
     "symbol": "SHINIKI",
     "description": "Shiniki",
-    "seller_fee_basis_points": 10,
+    "seller_fee_basis_points": 30,
     "image": "https://nftstorage.link/ipfs/QmQuVAsoRiavA71Cnz7wmZouAZVpzXXofRR2PWosu3Rxog/2728.png",
     "external_url": "https://shiniki.io",
-    "edition": 3453
+    "edition": 1,
+    "collection": {
+        "name": "Shiniki",
+        "family": "ShinikiLOG"
+    }
   }
