@@ -31,20 +31,5 @@
         "trait_type": "Headgear",
         "value": "Dad Cap "
       }
-    ],
-    "properties": {
-      "files": [
-        {
-          "uri": "https://nftstorage.link/ipfs/QmQuVAsoRiavA71Cnz7wmZouAZVpzXXofRR2PWosu3Rxog/2728.png",
-          "type": "image/png"
-        }
-      ],
-      "category": "image",
-      "creators": [
-        {
-          "address": "HjQr6UJeGQvdD46n8rSL3H7HZqGB88fCh5vx3zmj1oar",
-          "share": 100
-        }
-      ]
-    }
+    ]
   }
