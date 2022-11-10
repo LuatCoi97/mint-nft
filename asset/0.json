@@ -1,10 +1,10 @@
 {
-    "name": "GOONZUKI #3453",
-    "symbol": "GOONZUKI",
-    "description": "A bunch of goonish scientists mutated the red beans of Azuki and turned them into blue beanz for the residents of Solana Island to take and experiment with.",
-    "seller_fee_basis_points": 750,
+    "name": "Shiniki #3453",
+    "symbol": "SHINIKI",
+    "description": "Shiniki",
+    "seller_fee_basis_points": 10,
     "image": "https://nftstorage.link/ipfs/QmQuVAsoRiavA71Cnz7wmZouAZVpzXXofRR2PWosu3Rxog/2728.png",
-    "external_url": "https://goonzuki.com",
+    "external_url": "https://shiniki.io",
     "edition": 3453,
     "attributes": [
       {
