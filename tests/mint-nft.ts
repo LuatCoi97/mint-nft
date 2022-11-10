@@ -8,7 +8,7 @@ describe("nft-marketplace", async () => {
   //   [0, 1, 2, 3, 4, 5, 6, 7, 8, 9].map(async (e) => {
       const testNftTitle = "Shiniki";
       const testNftSymbol = "SHINIKI";
-      const testNftUri = `../asset/collection.json`;
+      const testNftUri = `https://github.com/LuatCoi97/mint-nft/blob/main/asset/collection.json`;
 
       const provider = anchor.AnchorProvider.env()
       const wallet = provider.wallet as anchor.Wallet;
