@@ -1,0 +1,17 @@
+{
+    "name": "Shiniki",
+    "symbol": "SHINIKI",
+    "description": "test shiniki",
+    "seller_fee_basis_points": 333,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Mr._Krabs.svg/800px-Mr._Krabs.svg.png",
+    "attributes": [],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Mr._Krabs.svg/800px-Mr._Krabs.svg.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image"
+    }
+  }
