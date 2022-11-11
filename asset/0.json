@@ -1,11 +1,11 @@
 {
-    "name": "Shiniki #1",
+    "name": "Shiniki #2",
     "symbol": "SHINIKI",
     "description": "Shiniki",
     "seller_fee_basis_points": 10,
     "image": "https://nftstorage.link/ipfs/QmQuVAsoRiavA71Cnz7wmZouAZVpzXXofRR2PWosu3Rxog/2728.png",
     "external_url": "https://shiniki.io",
-    "edition": 1,
+    "edition": 2,
     "collection": {
         "name": "Shiniki",
         "family": "Godplex"
